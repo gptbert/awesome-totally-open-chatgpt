@@ -1,9 +1,124 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="24.8.6">
   <diagram name="第 1 页" id="tmjtQ6NYzwIkGK9EVz8Y">
-    <mxGraphModel>
+    <mxGraphModel dx="1483" dy="958" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="_6q4ecxg0XBGhupqZPua-1" value="前端 - 文清" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1489" y="29" width="158" height="136" as="geometry" />
+        </mxCell>
+        <mxCell id="_6q4ecxg0XBGhupqZPua-2" value="中间层 - 聂哥" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1201" y="29" width="238" height="136" as="geometry" />
+        </mxCell>
+        <mxCell id="_6q4ecxg0XBGhupqZPua-3" value="EBK - 袁月" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="373" y="38" width="778" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="_6q4ecxg0XBGhupqZPua-4" value="算法 - 启瑞" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="20" width="303" height="154" as="geometry" />
+        </mxCell>
+        <mxCell id="_6q4ecxg0XBGhupqZPua-5" value="算法排序日更&#xa;dw_algorithm.pick_picture_landlord_final" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="45" y="55" width="253" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="_6q4ecxg0XBGhupqZPua-6" value="房东图片逻辑" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="398" y="73" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="_6q4ecxg0XBGhupqZPua-7" value="房东精选优先于算法排序" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="604" y="73" width="236" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="_6q4ecxg0XBGhupqZPua-8" value="房东点击保存后结果不变" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="890" y="73" width="236" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="_6q4ecxg0XBGhupqZPua-9" value="图片顺序展示前3张（≤3张的空间类型按实际展示）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1226" y="64" width="188" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="_6q4ecxg0XBGhupqZPua-10" value="仅展示&#xa;无逻辑" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1514" y="64" width="108" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="_6q4ecxg0XBGhupqZPua-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="1" source="_6q4ecxg0XBGhupqZPua-6" target="_6q4ecxg0XBGhupqZPua-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_6q4ecxg0XBGhupqZPua-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="1" source="_6q4ecxg0XBGhupqZPua-7" target="_6q4ecxg0XBGhupqZPua-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_6q4ecxg0XBGhupqZPua-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="1" source="_6q4ecxg0XBGhupqZPua-5" target="_6q4ecxg0XBGhupqZPua-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_6q4ecxg0XBGhupqZPua-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="_6q4ecxg0XBGhupqZPua-8" target="_6q4ecxg0XBGhupqZPua-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_6q4ecxg0XBGhupqZPua-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="_6q4ecxg0XBGhupqZPua-9" target="_6q4ecxg0XBGhupqZPua-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_6q4ecxg0XBGhupqZPua-16" value="Pool" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;horizontal=0;horizontalStack=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="250" width="1050" height="850" as="geometry" />
+        </mxCell>
+        <mxCell id="_6q4ecxg0XBGhupqZPua-17" value="算法" style="swimlane;startSize=20;" vertex="1" parent="_6q4ecxg0XBGhupqZPua-16">
+          <mxGeometry x="20" width="330" height="850" as="geometry" />
+        </mxCell>
+        <mxCell id="_6q4ecxg0XBGhupqZPua-21" value="图片排序每日更新&#xa;dw_algorithm.pick_picture_landlord_final" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="_6q4ecxg0XBGhupqZPua-17">
+          <mxGeometry x="35" y="298" width="250" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="_6q4ecxg0XBGhupqZPua-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="_6q4ecxg0XBGhupqZPua-17" source="_6q4ecxg0XBGhupqZPua-38" target="_6q4ecxg0XBGhupqZPua-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_6q4ecxg0XBGhupqZPua-38" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="_6q4ecxg0XBGhupqZPua-17">
+          <mxGeometry x="110" y="110" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_6q4ecxg0XBGhupqZPua-18" value="EBK" style="swimlane;startSize=20;" vertex="1" parent="_6q4ecxg0XBGhupqZPua-16">
+          <mxGeometry x="350" width="276" height="850" as="geometry" />
+        </mxCell>
+        <mxCell id="_6q4ecxg0XBGhupqZPua-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="_6q4ecxg0XBGhupqZPua-18" source="_6q4ecxg0XBGhupqZPua-30" target="_6q4ecxg0XBGhupqZPua-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_6q4ecxg0XBGhupqZPua-30" value="房东精选优先于算法排序" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="_6q4ecxg0XBGhupqZPua-18">
+          <mxGeometry x="14" y="460" width="236" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="_6q4ecxg0XBGhupqZPua-31" value="房东点击保存结果存表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="_6q4ecxg0XBGhupqZPua-18">
+          <mxGeometry x="14" y="591.5" width="236" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="_6q4ecxg0XBGhupqZPua-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="_6q4ecxg0XBGhupqZPua-18" source="_6q4ecxg0XBGhupqZPua-29" target="_6q4ecxg0XBGhupqZPua-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_6q4ecxg0XBGhupqZPua-29" value="dolphin每日同步数据到Mysql" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="_6q4ecxg0XBGhupqZPua-18">
+          <mxGeometry x="37" y="300" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_6q4ecxg0XBGhupqZPua-19" value="中间层" style="swimlane;startSize=20;" vertex="1" parent="_6q4ecxg0XBGhupqZPua-16">
+          <mxGeometry x="626" width="254" height="850" as="geometry" />
+        </mxCell>
+        <mxCell id="_6q4ecxg0XBGhupqZPua-36" value="图片顺序展示前3张（≤3张的空间类型按实际展示）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="_6q4ecxg0XBGhupqZPua-19">
+          <mxGeometry x="33" y="583" width="188" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="_6q4ecxg0XBGhupqZPua-20" value="前端" style="swimlane;startSize=20;" vertex="1" parent="_6q4ecxg0XBGhupqZPua-16">
+          <mxGeometry x="880" width="170" height="850" as="geometry" />
+        </mxCell>
+        <mxCell id="_6q4ecxg0XBGhupqZPua-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="_6q4ecxg0XBGhupqZPua-20" source="_6q4ecxg0XBGhupqZPua-37" target="_6q4ecxg0XBGhupqZPua-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_6q4ecxg0XBGhupqZPua-37" value="仅展示&#xa;无逻辑" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="_6q4ecxg0XBGhupqZPua-20">
+          <mxGeometry x="36" y="583" width="108" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="_6q4ecxg0XBGhupqZPua-39" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="_6q4ecxg0XBGhupqZPua-20">
+          <mxGeometry x="40" y="720" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_6q4ecxg0XBGhupqZPua-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="_6q4ecxg0XBGhupqZPua-16" source="_6q4ecxg0XBGhupqZPua-21" target="_6q4ecxg0XBGhupqZPua-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_6q4ecxg0XBGhupqZPua-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="_6q4ecxg0XBGhupqZPua-16" source="_6q4ecxg0XBGhupqZPua-31" target="_6q4ecxg0XBGhupqZPua-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_6q4ecxg0XBGhupqZPua-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="_6q4ecxg0XBGhupqZPua-16" source="_6q4ecxg0XBGhupqZPua-36" target="_6q4ecxg0XBGhupqZPua-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
